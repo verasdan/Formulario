@@ -7,9 +7,10 @@
 
 <div align="center">
 
-![VSCODE](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)
+![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white&style=flat)
 ![Projeto](https://badgen.net/badge/Projeto/Finished/green)
 ![GIT](https://badgen.net/badge/Git/ON/green?icon=github)
+[![Profile last updated](https://img.shields.io/github/last-commit/verasdan/verasdan?label=Last%20updated&style=flat)](https://github.com/verasdan/verasdan/commits)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=verasdan)
 [![Twitter Followers](https://badgen.net/twitter/follow/veras_dan)](https://twitter.com/veras_dan)
