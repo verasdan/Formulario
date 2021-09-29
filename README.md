@@ -34,12 +34,24 @@ ___
 
 <br>
 
+<!-- GitHub Contributors -->
 <div align="center">
 
 GitHub Contributors
-
+<!-- Trocar o nome do repositório para atualizar -->
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=verasdan/Formulario)
 
+
+</div>
+
+___
+
+<div align="center"><br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=verasdan)
+![](https://badges.pufler.dev/visits/verasdan/verasdan?color=black&logo=github&style=flat-square)
+
+[![Twitter Followers](https://badgen.net/twitter/follow/veras_dan)](https://twitter.com/veras_dan)
 </div>
 
 
